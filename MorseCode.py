@@ -1,6 +1,8 @@
-# Created by Vikrant
+''' Created by Vikrant
+    This is the most simple morse code convertor '''
 
 def convert_morse(code):
+    
     code = code.replace("a", ".-")
     code = code.replace("b", "-...")
     code = code.replace("c", "-.-.")
@@ -27,6 +29,25 @@ def convert_morse(code):
     code = code.replace("x", "-..-")
     code = code.replace("y", "-.--")
     code = code.replace("z", "--..")
+    
+    code = code.replace("1", ".----")
+    code = code.replace("2", "..---")
+    code = code.replace("3", "...--")
+    code = code.replace("4", "....-")
+    code = code.replace("5", ".....")
+    code = code.replace("6", "-....")
+    code = code.replace("7", "--...")
+    code = code.replace("8", "---..")
+    code = code.replace("9", "----.")
+    code = code.replace("0", "-----")
+
+    code = code.replace(",", "--..--")
+    code = code.replace(".", ".-.-.")
+    code = code.replace("?", "..--..")
+    code = code.replace("/", "-..-.")
+    code = code.replace("-", "-....-")
+    code = code.replace("(", "-.--.")
+    code = code.replace(")", "-.--.-")
 
     return code
 
