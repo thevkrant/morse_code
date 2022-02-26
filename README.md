@@ -19,7 +19,7 @@ Execute
 
 ## Algorithm
 
-The algorithm is very simple. Every character in the English language is substituted by a series of ‘dots’ and ‘dashes’ or sometimes just singular ‘dot’ or ‘dash’ and vice versa.!
+The algorithm is very simple. Every character in the English language is substituted by a series of `dots` and `dashes` or sometimes just singular `dot` or `dash` and vice versa.!
 
 ![morsecode](https://user-images.githubusercontent.com/85709371/128562810-a0f43d2a-1a9d-428d-b335-40f063fb8806.png)
 
