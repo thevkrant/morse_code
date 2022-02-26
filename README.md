@@ -5,10 +5,19 @@ Morse code is a method of transmitting text information as a series of on-off to
 ### Prerequisites
 - `Python 3`
 
+### How to run the script
+Execute
+> python MorseCode.py
+
 ## Algorithm
 
 The algorithm is very simple. Every character in the English language is substituted by a series of ‘dots’ and ‘dashes’ or sometimes just singular ‘dot’ or ‘dash’ and vice versa.!
 
 ![morsecode](https://user-images.githubusercontent.com/85709371/128562810-a0f43d2a-1a9d-428d-b335-40f063fb8806.png)
 
+### Screenshot showing the sample use of the script
+
 ![Screenshot (7)](https://user-images.githubusercontent.com/85709371/128562695-97af14a8-edfc-4399-b348-0493ae204ff5.png)
+
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
